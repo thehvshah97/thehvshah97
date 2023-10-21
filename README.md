@@ -1,6 +1,8 @@
 ### About Me
+👋 Hi, I’m Harshit Viren Shah, a Computer Science post graduate student at Arizona State University, and I love developing, designing, and learning about scalable cloud applications. 🙂
 
-
+### Contact
+📫 How to reach me: hvshah97@gmail.com
 <!--
 **thehvshah97/thehvshah97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
