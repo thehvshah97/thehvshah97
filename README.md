@@ -1,5 +1,5 @@
 ### About Me
-👋 Hi, I’m Harshit Viren Shah, a Computer Science post graduate student at Arizona State University, and I love developing, designing, and learning about scalable cloud applications. 🙂
+👋 Greetings! I am Harshit Viren Shah, currently pursuing a Master's degree in Computer Science at Arizona State University. My passion lies in creating, designing, and exploring scalable cloud applications capable of managing substantial volumes of data. 🙂
 
 ### Contact
 📫 How to reach me: hvshah97@gmail.com
